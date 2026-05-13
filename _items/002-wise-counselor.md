@@ -16,9 +16,9 @@ learnmore: |
 medievallat: 27.3818648
 medievallong: 30.7752614
 entryauthor:
-  name: "Nicolò Sassi"
-  affiliation: "Theological Studies, St. Louis University"
-  contact: "https://www.slu.edu/arts-and-sciences/theological-studies/faculty/nicolo-sassi.php"
+  name: "Sophie Durbin"
+  affiliation: "University of the Highlands and Islands - Orkney"
+  contact: "www.sophiedurbin.com"
 img:
   file: https://upload.wikimedia.org/wikipedia/commons/e/e1/St._Theodosius_Monastery_%289198074875%29.jpg
   credit: |
