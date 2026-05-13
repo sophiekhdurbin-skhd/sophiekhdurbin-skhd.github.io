@@ -19,10 +19,5 @@ entryauthor:
   name: "Sophie Durbin"
   affiliation: "University of the Highlands and Islands - Orkney"
   contact: "www.sophiedurbin.com"
-img:
-  file: https://upload.wikimedia.org/wikipedia/commons/e/e1/St._Theodosius_Monastery_%289198074875%29.jpg
-  credit: |
-    John of Moschos' reported burial place, the Monastery of St. Theodosius. someone10x, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
-  source: https://commons.wikimedia.org/wiki/File:St._Theodosius_Monastery_(9198074875).jpg
-creationdate: 2026-01-29
+
 ---
