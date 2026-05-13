@@ -1,14 +1,13 @@
 ---
 layout: pilgrimage
 title: "Calculate your commute"
-mapurl: "https://www.google.com/maps/dir/42.2806188,-85.612647/Westness,+Orkney+KW17+2PT,+UK/@42.8605981,-85.1052832,8381553m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x489a54b1682aa1a5:0x81fbee40026a8767!2m2!1d-3.078059!2d59.143849?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+mapurl: "https://www.google.com/maps/place/Westness,+Orkney+KW17+2PT,+UK/@59.1438469,-3.0986585,2864m/data=!3m2!1e3!4b1!4m6!3m5!1s0x489a54b1682aa1a5:0x81fbee40026a8767!8m2!3d59.143849!4d-3.078059!16s%2Fg%2F1tgtf26x?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 clue: "Will you have to travel by plane? Train? Automobile? All three?"
 shortdesc: >
     Before you take a pilgrimage, you must first make it to your starting point. 
-lat: "42.8605981"
-long: "-85.1052832,8381553"
-medievalparalleltitle: "Shikoku Henro"
-medievalmapurl: "https://www.google.com/maps/place/Ryozenji+Temple/@34.1596727,134.4999519,17z/data=!4m14!1m7!3m6!1s0x355371e674b682e3:0xb3d020fcc0b36321!2sRyozenji+Temple!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q!3m5!1s0x355371e674b682e3:0xb3d020fcc0b36321!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q"
+lat: "59.1438469"
+long: "-3.0986585,2864"
+medievalmapurl: "https://www.google.com/maps/place/Westness,+Orkney+KW17+2PT,+UK/@59.1438469,-3.0986585,2864m/data=!3m2!1e3!4b1!4m6!3m5!1s0x489a54b1682aa1a5:0x81fbee40026a8767!8m2!3d59.143849!4d-3.078059!16s%2Fg%2F1tgtf26x?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 medievalparallel: |
     Buddhist priest Kūkai was born Saeki no Mao (Mao, of the Saeki family) on the island of Shikoku in Japan. His early studies led to a life of ascetic and meditative practices as a Buddhist and an administrator in 9th century Japan. His writings on Buddhism in the Japanese tradition led to his other name, Kōbō Daishi, or "Great Teacher".
 
