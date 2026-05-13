@@ -1,21 +1,20 @@
 ---
-title: A Pilgrimage through the Global Middle Ages
+title: A journey along the Westness Heritage Walk
 layout: collection
 permalink: /
 ---
 
-## A Pilgrimage through the Global Middle Ages
+## A journey along the Westness Heritage Walk
 
-### Welcome, fellow pilgrim!
+### Welcome, travelers!
 
-Whether you're traveling for contemplation, worship, healing or the thrill of a new encounter, you've come to the right place.
+Along the southwestern coast of the isle of Rousay, located in Orkney, Scotland, archaeological sites spanning over 5,000 years unfold over the span of a mile: the Westness Heritage Walk. If traveling to Rousay isn’t in your plans, take advantage of this resource to make the journey from your own home.
 
-Popular concepts of the Middle Ages—think Game of Thrones—draw on limited, mostly European, models of the world between 500 and 1500. The [Global Middle Ages movement](http://globalmiddleages.org/about), on which there is [substantial scholarship](https://www.cambridge.org/core/elements/abs/global-middle-ages/8A93324E51AC2137A659ACD266A9165C), expands our idea of the Middle Ages to celebrate the breadth of cultural, religious and social interchange that characterized the entire world between 500 and 1500.
 
-*   **Explore the Meaning of Pilgrimage:** Experience aspects of a pilgrimage and reflect on its significance as a deeply human activity!
+
+*   **Understand your commute: How will you get to Rousay?** The arduousness of the journey is an important aspect of the pilgrimage! Recreate it at home or think through what it would take to get there.
     
-*   **Understand History’s Context:** Investigate how history is shaped by time and place by comparing different types of pilgrimages around the world and examining how modern assumptions can influence our understanding of the past.
+*   **Explore sites along the heritage walk** Visit notable sites spanning from the Neolithic to the Present.
     
-*   **Develop Critical Historical Skills:** Evaluate historical sources carefully, look for missing information, and actively seek out new perspectives to enrich your understanding.
+*   **Dig into the scholarship** Access resources to deepen your knowledge of the heritage walk.
     
-*   **Challenge Traditional Assumptions:** Use modern tools to question outdated ideas about what "medieval" means, in both its historical context and in the modern world.
