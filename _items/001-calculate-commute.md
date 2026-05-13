@@ -1,10 +1,10 @@
 ---
 layout: pilgrimage
 title: "Calculate your commute"
-mapurl: "https://www.google.com/maps/place/39°09'57.2%22N+86°31'32.4%22W/@39.1658751,-86.5256635,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1658751!4d-86.5256635"
-clue: "Find me at the bench in the center of Dunn's Woods."
+mapurl: "https://www.google.com/maps/dir/42.2806188,-85.612647/Westness,+Orkney+KW17+2PT,+UK/@42.8605981,-85.1052832,8381553m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x489a54b1682aa1a5:0x81fbee40026a8767!2m2!1d-3.078059!2d59.143849?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+clue: "Will you have to travel by plane? Train? Automobile? All three?"
 shortdesc: >
-    Rain or shine, members of our community follow these tree-lined labyrinthine paths with the presence of the first holy person to walk these routes guiding them. Whether they observe the nature of beauty in isolation or seek the spiritual company of fellow travelers, each pilgrim crosses a boundary from the bustle of the brick-lined paths of the outside world into a quiet, contemplative forested preserve.
+    Before you take a pilgrimage, you must first make it to your starting point. 
 lat: "39.1658751"
 long: "-86.5256635"
 medievalparalleltitle: "Shikoku Henro"
