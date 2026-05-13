@@ -5,8 +5,8 @@ mapurl: "https://www.google.com/maps/dir/42.2806188,-85.612647/Westness,+Orkney+
 clue: "Will you have to travel by plane? Train? Automobile? All three?"
 shortdesc: >
     Before you take a pilgrimage, you must first make it to your starting point. 
-lat: "39.1658751"
-long: "-86.5256635"
+lat: "42.8605981"
+long: "-85.1052832,8381553"
 medievalparalleltitle: "Shikoku Henro"
 medievalmapurl: "https://www.google.com/maps/place/Ryozenji+Temple/@34.1596727,134.4999519,17z/data=!4m14!1m7!3m6!1s0x355371e674b682e3:0xb3d020fcc0b36321!2sRyozenji+Temple!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q!3m5!1s0x355371e674b682e3:0xb3d020fcc0b36321!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q"
 medievalparallel: |
