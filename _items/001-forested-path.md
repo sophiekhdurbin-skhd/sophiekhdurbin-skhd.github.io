@@ -1,7 +1,6 @@
 ---
 layout: pilgrimage
-title: "Travel a Forested Path"
-categories: [ East Asia, 9th century ]
+title: "Calculate your commute"
 mapurl: "https://www.google.com/maps/place/39°09'57.2%22N+86°31'32.4%22W/@39.1658751,-86.5256635,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1658751!4d-86.5256635"
 clue: "Find me at the bench in the center of Dunn's Woods."
 shortdesc: >
